@@ -36,7 +36,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -186,8 +185,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3830d4e888d175ca",
+  "active": "0f969a30e2863b01",
   "lastOpenFiles": [
+    "summaries/09.md",
     "summaries/02.md",
     "README.md",
     "Excalidraw/Drawing 2025-05-15 15.06.33.excalidraw.md",
@@ -198,7 +198,6 @@
     "assignment-3.md",
     "Untitled.md",
     "assignment-3.pdf",
-    "summaries/09.md",
     "summaries/08.md",
     "summaries/06.md",
     "summaries/07.md",
